@@ -4,7 +4,8 @@ Web Scraper en Ruby
 Aplicación en Ruby que entrega el título de una página específica del portal de Forbes. 
 La aplicación se encuentra en un Docker como requerimiento.
 
-Para la instalación se solicita tener instalado Docker en el equipo a ejecutar. [Instalador Docker](https://docs.docker.com/get-docker/)
+Para la instalación se solicita tener instalado Docker en el equipo a ejecutar, y el servicio activado. 
+[Instalador Docker](https://docs.docker.com/get-docker/)
 
 Comandos para ejecutar la aplicación:
 ```
